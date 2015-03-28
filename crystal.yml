@@ -1,0 +1,8 @@
+name: bsd3-license
+version: 0.1.0
+description: BSD 3-clause "New" or "Revised" License generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE
