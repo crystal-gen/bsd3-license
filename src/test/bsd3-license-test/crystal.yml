@@ -1,0 +1,9 @@
+name: bsd3-license-test
+version: 0.1.0
+description: bsd3-license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  bsd3-license:
+    version: latest
